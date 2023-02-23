@@ -1,0 +1,29 @@
+{
+  "term": "Spring",
+  "year": "2027",
+  "level": [],
+  "topics": [],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [],
+    "website": "course-4"
+  },
+  "course_image": {
+    "content": "",
+    "website": "course-4"
+  },
+  "course_title": "course-4",
+  "course_description": "course-4",
+  "department_numbers": [
+    "4"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "4",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "course-4"
+  },
+  "learning_resource_types": [],
+  "site_uid": "c615c4c6-d306-41ea-a192-78ab8b875980",
+  "site_short_id": "course-4"
+}
